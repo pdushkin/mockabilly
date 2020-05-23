@@ -1,4 +1,4 @@
-# MOCKABILLY
+# Mockabilly
 
 Mockabilly is a template-driven mock data generator.
 
@@ -34,13 +34,13 @@ Mockabilly will recognize the values you are using and generate the mock data fo
 | ------------- |:-------------:|
 | Words[One, Two... Five]      | creates up to five words |
 | Sentences[One, Two... Five]  | creates up to five sentences
-| Numbers[One, Two... Nine]      | creates up to nine numbers      |
+| Numbers[One, Two... Nine]      | creates up to nine digit numbers      |
 | Guid      | creates a random guid      |
 | Email      | creates a random email      |
 | TimestampUtc      | creates a UTC timestamp      |
 | Date      | creates a date      |
 | Boolean      | returns true or false      |
-| Options from List (format: "cat\|\|dog\|\|mouse")      | returns one of the options (e.g. "cat")      |
+| options: (e.g. "cat\|\|dog\|\|mouse")      | returns one of the options (e.g. "cat")      |
 
 ## Tell mockabilly about your template
 
