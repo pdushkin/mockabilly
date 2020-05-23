@@ -1,0 +1,23 @@
+{
+  "name": "mockabilly",
+  "version": "1.0.0",
+  "description": "A template-driven mock generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "mock",
+    "miragejs",
+    "mocking",
+    "generator"
+  ],
+  "author": "Peter Dushkin",
+  "url": "http://www.kinetic-minds.com",
+  "email": "dushkin@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
+}
