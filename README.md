@@ -91,4 +91,4 @@ export function makeServer({ environment = 'development' } = {}) {
 });
 ```
 
-Please feel free to reach out and let me know what you think.
+More about mockabilly **[on my blog](https://code.kinetic-minds.com/2020/05/mockabilly-template-driven-mocker-that.html)**. Please feel free to reach out and let me know how you are using it, any suggested improvements, or just say hello. Always happy to talk shop. 
